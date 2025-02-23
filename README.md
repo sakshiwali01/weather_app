@@ -44,5 +44,5 @@ To run the WeatherApp locally, follow these steps:
 ## ✨Credits
 `WeatherApp` is developed and maintained by `Yash`. Weather data is retrieved from the [OpenWeatherMap API](https://openweathermap.org/).
 
-## 📧Contacts
-For any inquiries or feedback, please contact [Here](mailto:its.yash.kumar23@gmail.com).
+## 📧View
+ please visite our sie once [Here]((https://weather-me-kle.netlify.app/)).
