@@ -3,7 +3,7 @@ This is a simple weather application built using React. It allows users to searc
 
 ## 📸 Preview
 
-<img src = "screenshot\01.png" alt = "weather app with React" style = "width:100%;"/><br />
+<img src = "screenshot/01.png" alt = "weather app with React" style = "width:100%;"/><br />
 <img src = "screenshot\02.png" alt = "weather app with React" style = "width:100%;"/>
 <br/>
 
